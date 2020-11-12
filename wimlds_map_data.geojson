@@ -1,0 +1,1753 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bengaluru Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Bengaluru-Women-in-Machine-Learning-and-Data-Science/'>Bengaluru Women in Machine Learning & Data Science</a>",
+        "created": "2018-08-22 23:41:55",
+        "members": "2400",
+        "past_events": "6",
+        "upcoming_events": "0",
+        "last_event": "2020-11-07",
+        "days_since_last_event": "2",
+        "start": "2018-08-22",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.56,12.97]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bay Area Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Bay-Area-Women-in-Machine-Learning-and-Data-Science/'>Bay Area Women in Machine Learning & Data Science</a>",
+        "created": "2013-12-06 14:45:08",
+        "members": "6361",
+        "past_events": "180",
+        "upcoming_events": "2",
+        "last_event": "2020-10-25",
+        "days_since_last_event": "15",
+        "start": "2013-12-06",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42,37.79]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montreal Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/wimlds-mtl/'>Montreal Women in Machine Learning and Data Science</a>",
+        "created": "2018-09-11 04:22:30",
+        "members": "1158",
+        "past_events": "6",
+        "upcoming_events": "2",
+        "last_event": "2020-09-12",
+        "days_since_last_event": "58",
+        "start": "2018-09-11",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.57,45.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paris Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Paris-Women-in-Machine-Learning-Data-Science/'>Paris Women in Machine Learning & Data Science</a>",
+        "created": "2017-07-08 09:37:56",
+        "members": "3936",
+        "past_events": "35",
+        "upcoming_events": "1",
+        "last_event": "2020-09-10",
+        "days_since_last_event": "60",
+        "start": "2017-07-08",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.34,48.86]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berlin Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/'>Berlin Women in Machine Learning & Data Science</a>",
+        "created": "2019-02-05 02:44:14",
+        "members": "1162",
+        "past_events": "20",
+        "upcoming_events": "0",
+        "last_event": "2020-11-05",
+        "days_since_last_event": "4",
+        "start": "2019-02-05",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.38,52.52]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mysore Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/Mysore-Women-in-Machine-Learning-and-Data-Science/'>Mysore Women in Machine Learning and Data Science</a>",
+        "created": "2019-11-14 02:31:16",
+        "members": "2738",
+        "past_events": "29",
+        "upcoming_events": "4",
+        "last_event": "2020-11-07",
+        "days_since_last_event": "2",
+        "start": "2019-11-14",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.64,12.3]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riyadh Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Riyadh-Women-in-Machine-Learning-and-Data-Science/'>Riyadh Women in Machine Learning & Data Science</a>",
+        "created": "2019-03-19 21:35:56",
+        "members": "557",
+        "past_events": "48",
+        "upcoming_events": "4",
+        "last_event": "2020-11-09",
+        "days_since_last_event": "0",
+        "start": "2019-03-19",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [46.77,24.65]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seattle Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/Seattle-Women-in-Machine-Learning-and-Data-Science/'>Seattle Women in Machine Learning and Data Science</a>",
+        "created": "2018-06-20 14:22:49",
+        "members": "1185",
+        "past_events": "7",
+        "upcoming_events": "1",
+        "last_event": "2020-02-06",
+        "days_since_last_event": "277",
+        "start": "2018-06-20",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.33,47.61]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "São Paulo Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Sao-Paulo-Women-in-Machine-Learning-Data-Science/'>São Paulo Women in Machine Learning & Data Science</a>",
+        "created": "2018-04-04 15:42:22",
+        "members": "1334",
+        "past_events": "20",
+        "upcoming_events": "1",
+        "last_event": "2020-11-07",
+        "days_since_last_event": "2",
+        "start": "2018-04-04",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.63,-23.53]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dresden Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Dresden-Women-in-Machine-Learning-and-Data-Science/'>Dresden Women in Machine Learning & Data Science</a>",
+        "created": "2019-03-19 21:27:21",
+        "members": "109",
+        "past_events": "2",
+        "upcoming_events": "0",
+        "last_event": "2020-10-26",
+        "days_since_last_event": "14",
+        "start": "2019-03-19",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.74,51.05]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Accra Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Accra-Women-in-Machine-Learning-Data-Science/'>Accra Women in Machine Learning & Data Science</a>",
+        "created": "2020-08-24 21:41:19",
+        "members": "131",
+        "past_events": "1",
+        "upcoming_events": "0",
+        "last_event": "2020-10-17",
+        "days_since_last_event": "23",
+        "start": "2020-08-24",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.2,5.56]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Halifax Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Halifax-Women-in-Machine-Learning-and-Data-Science/'>Halifax Women in Machine Learning & Data Science</a>",
+        "created": "2019-02-05 02:32:30",
+        "members": "270",
+        "past_events": "9",
+        "upcoming_events": "0",
+        "last_event": "2020-10-23",
+        "days_since_last_event": "17",
+        "start": "2019-02-05",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-63.57,44.64]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lagos Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Lagos-Women-in-Machine-Learning-Data-Science/'>Lagos Women in Machine Learning & Data Science</a>",
+        "created": "2017-03-28 09:00:53",
+        "members": "1499",
+        "past_events": "5",
+        "upcoming_events": "1",
+        "last_event": "2020-07-18",
+        "days_since_last_event": "114",
+        "start": "2017-03-28",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.47,6.45]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bucharest Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Bucharest-Women-in-Machine-Learning-and-Data-Science/'>Bucharest Women in Machine Learning & Data Science</a>",
+        "created": "2020-08-05 04:19:19",
+        "members": "46",
+        "past_events": "0",
+        "upcoming_events": "1",
+        "last_event": "1970-01-01",
+        "days_since_last_event": "18575",
+        "start": "2020-08-05",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.1,44.44]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boston Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/Boston-Women-in-Machine-Learning-and-Data-Science/'>Boston Women in Machine Learning and Data Science</a>",
+        "created": "2019-02-20 03:12:06",
+        "members": "1092",
+        "past_events": "15",
+        "upcoming_events": "0",
+        "last_event": "2020-10-29",
+        "days_since_last_event": "11",
+        "start": "2019-02-20",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07,42.36]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brussels Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/Brussels-Women-in-Machine-Learning-and-Data-Science/'>Brussels Women in Machine Learning and Data Science</a>",
+        "created": "2019-12-05 02:05:40",
+        "members": "155",
+        "past_events": "2",
+        "upcoming_events": "1",
+        "last_event": "2020-09-25",
+        "days_since_last_event": "45",
+        "start": "2019-12-05",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.33,50.83]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pune Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Pune-Women-in-Machine-Learning-and-Data-Science/'>Pune Women in Machine Learning & Data Science</a>",
+        "created": "2018-07-26 19:52:33",
+        "members": "2007",
+        "past_events": "27",
+        "upcoming_events": "1",
+        "last_event": "2020-02-29",
+        "days_since_last_event": "254",
+        "start": "2018-07-26",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.84,18.53]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dallas-Fort Worth Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Dallas-Fort-Worth-Women-in-Machine-Learning-and-Data-Science/'>Dallas-Fort Worth Women in Machine Learning & Data Science</a>",
+        "created": "2018-11-28 04:54:55",
+        "members": "365",
+        "past_events": "6",
+        "upcoming_events": "1",
+        "last_event": "2020-10-31",
+        "days_since_last_event": "9",
+        "start": "2018-11-28",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.8,32.79]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salt Lake City Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/Salt-Lake-City-Women-in-Machine-Learning-and-Data-Science/'>Salt Lake City Women in Machine Learning and Data Science</a>",
+        "created": "2019-11-10 22:50:47",
+        "members": "83",
+        "past_events": "3",
+        "upcoming_events": "1",
+        "last_event": "2020-10-15",
+        "days_since_last_event": "25",
+        "start": "2019-11-10",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.9,40.76]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Syracuse Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Syracuse-Women-in-Machine-Learning-and-Data-Science/'>Syracuse Women in Machine Learning & Data Science</a>",
+        "created": "2019-07-21 10:20:01",
+        "members": "125",
+        "past_events": "9",
+        "upcoming_events": "1",
+        "last_event": "2020-10-06",
+        "days_since_last_event": "34",
+        "start": "2019-07-21",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.15,43.04]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NYC Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/NYC-WiMLDS/'>NYC Women in Machine Learning & Data Science</a>",
+        "created": "2014-10-07 23:02:03",
+        "members": "4720",
+        "past_events": "89",
+        "upcoming_events": "0",
+        "last_event": "2020-02-12",
+        "days_since_last_event": "271",
+        "start": "2014-10-07",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.99,40.76]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VT WiMLDS",
+        "url": "<a href='https://www.meetup.com/VT-WiMLDS/'>VT WiMLDS</a>",
+        "created": "2017-03-20 12:47:36",
+        "members": "384",
+        "past_events": "51",
+        "upcoming_events": "0",
+        "last_event": "2020-04-06",
+        "days_since_last_event": "217",
+        "start": "2017-03-20",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.23,44.49]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Philadelphia Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Philadelphia-Women-in-Machine-Learning-and-Data-Science/'>Philadelphia Women in Machine Learning & Data Science</a>",
+        "created": "2019-11-11 01:34:02",
+        "members": "135",
+        "past_events": "3",
+        "upcoming_events": "0",
+        "last_event": "2020-02-13",
+        "days_since_last_event": "270",
+        "start": "2019-11-11",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.01,40.12]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ottawa Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Ottawa-Women-in-Machine-Learning-and-Data-Science/'>Ottawa Women in Machine Learning & Data Science</a>",
+        "created": "2020-06-15 01:20:06",
+        "members": "45",
+        "past_events": "0",
+        "upcoming_events": "0",
+        "last_event": "1970-01-01",
+        "days_since_last_event": "18575",
+        "start": "2020-06-15",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.69,45.45]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Baltimore-Women-in-Machine-Learning-and-Data-Science/'>Baltimore Women in Machine Learning & Data Science</a>",
+        "created": "2019-12-05 01:25:02",
+        "members": "50",
+        "past_events": "0",
+        "upcoming_events": "0",
+        "last_event": "1970-01-01",
+        "days_since_last_event": "18575",
+        "start": "2019-12-05",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.62,39.29]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Washington DC Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/Washington-DC-Women-in-Machine-Learning-and-Data-Science/'>Washington DC Women in Machine Learning and Data Science</a>",
+        "created": "2019-04-02 15:00:07",
+        "members": "221",
+        "past_events": "1",
+        "upcoming_events": "0",
+        "last_event": "2020-02-26",
+        "days_since_last_event": "257",
+        "start": "2019-04-02",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.02,38.91]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toronto Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Toronto-Women-in-Machine-Learning-and-Data-Science/'>Toronto Women in Machine Learning & Data Science</a>",
+        "created": "2019-02-28 18:14:55",
+        "members": "812",
+        "past_events": "4",
+        "upcoming_events": "0",
+        "last_event": "2019-10-17",
+        "days_since_last_event": "389",
+        "start": "2019-02-28",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.36,43.74]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pittsburgh Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/Pittsburgh-Women-in-Machine-Learning-and-Data-Science/'>Pittsburgh Women in Machine Learning and Data Science</a>",
+        "created": "2018-08-26 20:00:44",
+        "members": "290",
+        "past_events": "6",
+        "upcoming_events": "0",
+        "last_event": "2020-03-20",
+        "days_since_last_event": "234",
+        "start": "2018-08-26",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.95,40.47]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charlottesville Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/Charlottesville-Women-in-Machine-Learning-and-Data-Science/'>Charlottesville Women in Machine Learning and Data Science</a>",
+        "created": "2018-02-18 19:34:18",
+        "members": "85",
+        "past_events": "2",
+        "upcoming_events": "0",
+        "last_event": "2018-04-12",
+        "days_since_last_event": "942",
+        "start": "2018-02-18",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.49,38.06]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NC Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/NC-Women-in-Machine-Learning-and-Data-Science/'>NC Women in Machine Learning and Data Science</a>",
+        "created": "2016-02-25 17:48:41",
+        "members": "1284",
+        "past_events": "26",
+        "upcoming_events": "0",
+        "last_event": "2020-03-02",
+        "days_since_last_event": "252",
+        "start": "2016-02-25",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.8,35.81]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Metro Detroit Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/Metro-Detroit-Women-in-Machine-Learning-and-Data-Science/'>Metro Detroit Women in Machine Learning and Data Science</a>",
+        "created": "2016-11-01 19:33:21",
+        "members": "305",
+        "past_events": "10",
+        "upcoming_events": "0",
+        "last_event": "2020-07-23",
+        "days_since_last_event": "109",
+        "start": "2016-11-01",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.06,42.35]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Columbus Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Columbus-Women-in-Machine-Learning-and-Data-Science/'>Columbus Women in Machine Learning & Data Science</a>",
+        "created": "2020-02-11 02:17:06",
+        "members": "155",
+        "past_events": "1",
+        "upcoming_events": "0",
+        "last_event": "2020-05-27",
+        "days_since_last_event": "166",
+        "start": "2020-02-11",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.02,40.1]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chicago Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Chicago-Women-in-Machine-Learning-Data-Science/'>Chicago Women in Machine Learning & Data Science</a>",
+        "created": "2016-03-29 14:48:25",
+        "members": "928",
+        "past_events": "13",
+        "upcoming_events": "0",
+        "last_event": "2019-10-23",
+        "days_since_last_event": "383",
+        "start": "2016-03-29",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.62,41.88]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlanta Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/atlanta-wimlds/'>Atlanta Women in Machine Learning and Data Science</a>",
+        "created": "2019-05-15 10:30:38",
+        "members": "77",
+        "past_events": "0",
+        "upcoming_events": "0",
+        "last_event": "1970-01-01",
+        "days_since_last_event": "18575",
+        "start": "2019-05-15",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.4,33.86]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minneapolis Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/minneapolis-wimlds/'>Minneapolis Women in Machine Learning & Data Science</a>",
+        "created": "2019-06-11 11:31:46",
+        "members": "512",
+        "past_events": "15",
+        "upcoming_events": "0",
+        "last_event": "2020-08-05",
+        "days_since_last_event": "96",
+        "start": "2019-06-11",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.27,44.98]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kansas City Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Kansas-City-Women-in-Machine-Learning-and-Data-Science/'>Kansas City Women in Machine Learning & Data Science</a>",
+        "created": "2020-02-13 02:16:55",
+        "members": "32",
+        "past_events": "0",
+        "upcoming_events": "0",
+        "last_event": "1970-01-01",
+        "days_since_last_event": "18575",
+        "start": "2020-02-13",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.6,39.1]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Omaha Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Omaha-Women-in-Machine-Learning-and-Data-Science/'>Omaha Women in Machine Learning & Data Science</a>",
+        "created": "2019-03-07 15:41:21",
+        "members": "221",
+        "past_events": "7",
+        "upcoming_events": "0",
+        "last_event": "2020-01-16",
+        "days_since_last_event": "298",
+        "start": "2019-03-07",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.93,41.26]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Austin Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Austin-Women-in-Machine-Learning-Data-Science/'>Austin Women in Machine Learning & Data Science</a>",
+        "created": "2016-09-12 22:06:30",
+        "members": "370",
+        "past_events": "6",
+        "upcoming_events": "0",
+        "last_event": "2019-08-24",
+        "days_since_last_event": "443",
+        "start": "2016-09-12",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.75,30.22]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Antonio Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/San-Antonio-Women-in-Machine-Learning-and-Data-Science/'>San Antonio Women in Machine Learning & Data Science</a>",
+        "created": "2019-03-19 15:08:33",
+        "members": "184",
+        "past_events": "9",
+        "upcoming_events": "0",
+        "last_event": "2020-02-26",
+        "days_since_last_event": "257",
+        "start": "2019-03-19",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-98.53,29.47]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boulder Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Boulder-Women-in-Machine-Learning-and-Data-Science/'>Boulder Women in Machine Learning & Data Science</a>",
+        "created": "2016-05-12 20:13:50",
+        "members": "570",
+        "past_events": "34",
+        "upcoming_events": "0",
+        "last_event": "2020-02-05",
+        "days_since_last_event": "278",
+        "start": "2016-05-12",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.21,40.05]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corpus Christi Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/Corpus-Christi-Women-in-Machine-Learning-and-Data-Science/'>Corpus Christi Women in Machine Learning and Data Science</a>",
+        "created": "2016-11-11 15:11:07",
+        "members": "136",
+        "past_events": "4",
+        "upcoming_events": "0",
+        "last_event": "2019-04-26",
+        "days_since_last_event": "563",
+        "start": "2016-11-11",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.4,27.8]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edmonton Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Edmonton-Women-in-Machine-Learning-and-Data-Science/'>Edmonton Women in Machine Learning & Data Science</a>",
+        "created": "2019-02-05 02:41:25",
+        "members": "222",
+        "past_events": "5",
+        "upcoming_events": "0",
+        "last_event": "2020-02-12",
+        "days_since_last_event": "271",
+        "start": "2019-02-05",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-113.44,53.6]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calgary Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Calgary-Women-in-Machine-Learning-and-Data-Science/'>Calgary Women in Machine Learning & Data Science</a>",
+        "created": "2019-03-05 20:47:55",
+        "members": "80",
+        "past_events": "0",
+        "upcoming_events": "0",
+        "last_event": "1970-01-01",
+        "days_since_last_event": "18575",
+        "start": "2019-03-05",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.06,51.04]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vancouver Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/Vancouver-Women-in-Machine-Learning-and-Data-Science/'>Vancouver Women in Machine Learning and Data Science</a>",
+        "created": "2018-11-28 05:48:55",
+        "members": "415",
+        "past_events": "7",
+        "upcoming_events": "0",
+        "last_event": "2020-05-04",
+        "days_since_last_event": "189",
+        "start": "2018-11-28",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.04,49.28]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PDX Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/PDX-Women-in-Machine-Learning-and-Data-Science/'>PDX Women in Machine Learning and Data Science</a>",
+        "created": "2019-01-21 14:52:27",
+        "members": "43",
+        "past_events": "7",
+        "upcoming_events": "0",
+        "last_event": "2019-07-25",
+        "days_since_last_event": "473",
+        "start": "2019-01-21",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.69,45.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Angeles Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Los-Angeles-Women-in-Machine-Learning-and-Data-Science/'>Los Angeles Women in Machine Learning & Data Science</a>",
+        "created": "2020-05-14 20:11:30",
+        "members": "67",
+        "past_events": "2",
+        "upcoming_events": "0",
+        "last_event": "2020-08-07",
+        "days_since_last_event": "94",
+        "start": "2020-05-14",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.24,33.97]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dublin Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/Dublin-Women-in-Machine-Learning-and-Data-Science/'>Dublin Women in Machine Learning and Data Science</a>",
+        "created": "2019-11-11 02:27:08",
+        "members": "77",
+        "past_events": "0",
+        "upcoming_events": "0",
+        "last_event": "1970-01-01",
+        "days_since_last_event": "18575",
+        "start": "2019-11-11",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25,53.33]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Galicia Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Galicia-Women-in-Machine-Learning-and-Data-Science/'>Galicia Women in Machine Learning & Data Science</a>",
+        "created": "2019-03-23 09:15:01",
+        "members": "73",
+        "past_events": "0",
+        "upcoming_events": "0",
+        "last_event": "1970-01-01",
+        "days_since_last_event": "18575",
+        "start": "2019-03-23",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.71,42.22]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cambridge Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Cambridge-Women-in-Machine-Learning-and-Data-Science/'>Cambridge Women in Machine Learning & Data Science</a>",
+        "created": "2020-01-20 14:46:26",
+        "members": "159",
+        "past_events": "3",
+        "upcoming_events": "0",
+        "last_event": "2020-10-02",
+        "days_since_last_event": "38",
+        "start": "2020-01-20",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.13,52.21]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "London Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/London-Women-in-Machine-Learning-and-Data-Science/'>London Women in Machine Learning & Data Science</a>",
+        "created": "2018-11-16 00:22:18",
+        "members": "1464",
+        "past_events": "16",
+        "upcoming_events": "0",
+        "last_event": "2020-08-17",
+        "days_since_last_event": "84",
+        "start": "2018-11-16",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1,51.52]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madrid Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Madrid-Women-in-Machine-Learning-and-Data-Science/'>Madrid Women in Machine Learning & Data Science</a>",
+        "created": "2018-10-09 22:31:30",
+        "members": "1138",
+        "past_events": "13",
+        "upcoming_events": "1",
+        "last_event": "2020-07-01",
+        "days_since_last_event": "131",
+        "start": "2018-10-09",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.71,40.42]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casablanca Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Casablanca-Women-in-Machine-Learning-and-Data-Science/'>Casablanca Women in Machine Learning & Data Science</a>",
+        "created": "2019-05-02 18:37:02",
+        "members": "396",
+        "past_events": "4",
+        "upcoming_events": "0",
+        "last_event": "2020-08-21",
+        "days_since_last_event": "80",
+        "start": "2019-05-02",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.58,33.53]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amsterdam Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/Amsterdam-Women-in-Machine-Learning-and-Data-Science/'>Amsterdam Women in Machine Learning and Data Science</a>",
+        "created": "2019-01-28 17:31:10",
+        "members": "169",
+        "past_events": "3",
+        "upcoming_events": "0",
+        "last_event": "2020-01-28",
+        "days_since_last_event": "286",
+        "start": "2019-01-28",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.89,52.37]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Copenhagen Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Copenhagen-Women-in-Machine-Learning-and-Data-Science/'>Copenhagen Women in Machine Learning & Data Science</a>",
+        "created": "2019-06-26 08:04:18",
+        "members": "162",
+        "past_events": "1",
+        "upcoming_events": "0",
+        "last_event": "2019-12-16",
+        "days_since_last_event": "329",
+        "start": "2019-06-26",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.57,55.68]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dakar Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Dakar-Women-in-Machine-Learning-and-Data-Science/'>Dakar Women in Machine Learning & Data Science</a>",
+        "created": "2020-08-27 20:31:45",
+        "members": "78",
+        "past_events": "0",
+        "upcoming_events": "0",
+        "last_event": "1970-01-01",
+        "days_since_last_event": "18575",
+        "start": "2020-08-27",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-17.48,14.72]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zürich Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/Zurich-Women-in-Machine-Learning-and-Data-Science/'>Zürich Women in Machine Learning and Data Science</a>",
+        "created": "2017-02-07 19:57:44",
+        "members": "582",
+        "past_events": "14",
+        "upcoming_events": "0",
+        "last_event": "2020-10-05",
+        "days_since_last_event": "35",
+        "start": "2017-02-07",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.54,47.38]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sophia Antipolis Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Sophia-Antipolis-wimlds/'>Sophia Antipolis Women in Machine Learning & Data Science</a>",
+        "created": "2019-08-05 08:17:24",
+        "members": "29",
+        "past_events": "0",
+        "upcoming_events": "0",
+        "last_event": "1970-01-01",
+        "days_since_last_event": "18575",
+        "start": "2019-08-05",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.06,43.62]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milan Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/Milan-Women-in-Machine-Learning-and-Data-Science/'>Milan Women in Machine Learning and Data Science</a>",
+        "created": "2018-03-19 19:43:05",
+        "members": "705",
+        "past_events": "12",
+        "upcoming_events": "0",
+        "last_event": "2020-10-07",
+        "days_since_last_event": "33",
+        "start": "2018-03-19",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.19,45.46]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Algiers Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Algiers-Women-in-Machine-Learning-and-Data-Science/'>Algiers Women in Machine Learning & Data Science</a>",
+        "created": "2020-05-11 05:59:23",
+        "members": "65",
+        "past_events": "1",
+        "upcoming_events": "0",
+        "last_event": "2020-06-20",
+        "days_since_last_event": "142",
+        "start": "2020-05-11",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.06,36.75]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Munich Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/munich-women-in-machine-learning-and-data-science/'>Munich Women in Machine Learning and Data Science</a>",
+        "created": "2020-10-01 18:52:33",
+        "members": "47",
+        "past_events": "0",
+        "upcoming_events": "0",
+        "last_event": "1970-01-01",
+        "days_since_last_event": "18575",
+        "start": "2020-10-01",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.58,48.14]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poznan Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Poznan-Women-in-Machine-Learning-Data-Science/'>Poznan Women in Machine Learning & Data Science</a>",
+        "created": "2018-04-04 21:44:47",
+        "members": "735",
+        "past_events": "14",
+        "upcoming_events": "0",
+        "last_event": "2020-06-16",
+        "days_since_last_event": "146",
+        "start": "2018-04-04",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.9,52.4]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trojmiasto Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Trojmiasto-Women-in-Machine-Learning-and-Data-Science/'>Trojmiasto Women in Machine Learning & Data Science</a>",
+        "created": "2018-06-29 02:28:26",
+        "members": "265",
+        "past_events": "7",
+        "upcoming_events": "0",
+        "last_event": "2019-07-20",
+        "days_since_last_event": "478",
+        "start": "2018-06-29",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.64,54.36]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Paz Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/La-Paz-Women-in-Machine-Learning-and-Data-Science/'>La Paz Women in Machine Learning & Data Science</a>",
+        "created": "2018-11-06 22:52:17",
+        "members": "298",
+        "past_events": "10",
+        "upcoming_events": "0",
+        "last_event": "2020-05-26",
+        "days_since_last_event": "167",
+        "start": "2018-11-06",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.15,-16.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cochabamba Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Cochabamba-Women-in-Machine-Learning-and-Data-Science/'>Cochabamba Women in Machine Learning & Data Science</a>",
+        "created": "2018-12-13 01:16:23",
+        "members": "140",
+        "past_events": "5",
+        "upcoming_events": "0",
+        "last_event": "2019-12-04",
+        "days_since_last_event": "341",
+        "start": "2018-12-13",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.17,-17.38]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Istanbul Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Istanbul-Women-in-Machine-Learning-and-Data-Science/'>Istanbul Women in Machine Learning & Data Science</a>",
+        "created": "2018-12-21 01:28:31",
+        "members": "563",
+        "past_events": "1",
+        "upcoming_events": "0",
+        "last_event": "2019-09-25",
+        "days_since_last_event": "411",
+        "start": "2018-12-21",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.96,41.01]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ankara Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Ankara-Women-in-Machine-Learning-and-Data-Science/'>Ankara Women in Machine Learning & Data Science</a>",
+        "created": "2019-01-18 02:59:17",
+        "members": "331",
+        "past_events": "0",
+        "upcoming_events": "0",
+        "last_event": "1970-01-01",
+        "days_since_last_event": "18575",
+        "start": "2019-01-18",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.85,39.93]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abuja Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/Abuja-Women-in-Machine-Learning-and-Data-Science/'>Abuja Women in Machine Learning and Data Science</a>",
+        "created": "2018-01-16 20:32:42",
+        "members": "616",
+        "past_events": "5",
+        "upcoming_events": "0",
+        "last_event": "2020-02-22",
+        "days_since_last_event": "261",
+        "start": "2018-01-16",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.17,9.18]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limassol Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Limassol-Women-in-Machine-Learning-and-Data-Science/'>Limassol Women in Machine Learning & Data Science</a>",
+        "created": "2019-11-11 02:01:20",
+        "members": "46",
+        "past_events": "1",
+        "upcoming_events": "0",
+        "last_event": "2020-06-12",
+        "days_since_last_event": "150",
+        "start": "2019-11-11",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.05,34.68]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buenos Aires Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/Buenos-Aires-Women-in-Machine-Learning-Data-Science/'>Buenos Aires Women in Machine Learning and Data Science</a>",
+        "created": "2018-04-04 15:54:06",
+        "members": "502",
+        "past_events": "8",
+        "upcoming_events": "0",
+        "last_event": "2019-12-17",
+        "days_since_last_event": "328",
+        "start": "2018-04-04",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.37,-34.61]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cairo Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Cairo-Women-in-Machine-Learning-and-Data-Science/'>Cairo Women in Machine Learning & Data Science</a>",
+        "created": "2019-03-08 01:32:58",
+        "members": "606",
+        "past_events": "2",
+        "upcoming_events": "0",
+        "last_event": "2019-09-18",
+        "days_since_last_event": "418",
+        "start": "2019-03-08",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.25,30.06]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tel Aviv Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Tel-Aviv-Yafo-Women-in-Machine-Learning-and-Data-Science/'>Tel Aviv Women in Machine Learning & Data Science</a>",
+        "created": "2019-04-30 17:53:58",
+        "members": "338",
+        "past_events": "7",
+        "upcoming_events": "0",
+        "last_event": "2020-04-24",
+        "days_since_last_event": "199",
+        "start": "2019-04-30",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.77,32.07]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tokyo Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Tokyo-Women-in-Machine-Learning-and-Data-Science/'>Tokyo Women in Machine Learning & Data Science</a>",
+        "created": "2018-11-06 19:11:33",
+        "members": "139",
+        "past_events": "1",
+        "upcoming_events": "0",
+        "last_event": "2019-05-18",
+        "days_since_last_event": "541",
+        "start": "2018-11-06",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.77,35.67]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kigali Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Kigali-Women-in-Machine-Learning-and-Data-Science/'>Kigali Women in Machine Learning & Data Science</a>",
+        "created": "2018-09-11 03:35:07",
+        "members": "146",
+        "past_events": "0",
+        "upcoming_events": "0",
+        "last_event": "1970-01-01",
+        "days_since_last_event": "18575",
+        "start": "2018-09-11",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.06,-1.94]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampala Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Kampala-Women-in-Machine-Learning-and-Data-Science/'>Kampala Women in Machine Learning & Data Science</a>",
+        "created": "2019-03-19 11:52:20",
+        "members": "208",
+        "past_events": "2",
+        "upcoming_events": "0",
+        "last_event": "2020-08-14",
+        "days_since_last_event": "87",
+        "start": "2019-03-19",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.58,0.32]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delhi Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Delhi-Women-in-Machine-Learning-Data-Science/'>Delhi Women in Machine Learning & Data Science</a>",
+        "created": "2017-07-12 14:07:42",
+        "members": "810",
+        "past_events": "20",
+        "upcoming_events": "0",
+        "last_event": "2020-01-18",
+        "days_since_last_event": "296",
+        "start": "2017-07-12",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.21,28.67]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nairobi Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Nairobi-Women-in-Machine-Learning-Data-Science/'>Nairobi Women in Machine Learning & Data Science</a>",
+        "created": "2016-09-02 15:21:02",
+        "members": "3030",
+        "past_events": "42",
+        "upcoming_events": "0",
+        "last_event": "2020-07-18",
+        "days_since_last_event": "114",
+        "start": "2016-09-02",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.82,-1.29]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaipur Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Jaipur-Women-in-Machine-Learning-and-Data-Science/'>Jaipur Women in Machine Learning & Data Science</a>",
+        "created": "2020-05-11 05:26:28",
+        "members": "21",
+        "past_events": "0",
+        "upcoming_events": "0",
+        "last_event": "1970-01-01",
+        "days_since_last_event": "18575",
+        "start": "2020-05-11",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.8,26.92]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indore Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Indore-Women-in-Machine-Learning-and-Data-Science/'>Indore Women in Machine Learning & Data Science</a>",
+        "created": "2019-03-20 13:34:38",
+        "members": "267",
+        "past_events": "0",
+        "upcoming_events": "0",
+        "last_event": "1970-01-01",
+        "days_since_last_event": "18575",
+        "start": "2019-03-20",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.86,22.72]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhopal Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Bhopal-Women-in-Machine-Learning-and-Data-Science/'>Bhopal Women in Machine Learning & Data Science</a>",
+        "created": "2018-12-21 01:43:48",
+        "members": "300",
+        "past_events": "1",
+        "upcoming_events": "0",
+        "last_event": "2019-01-27",
+        "days_since_last_event": "652",
+        "start": "2018-12-21",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.4,23.24]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mumbai Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/Mumbai-Women-in-Machine-Learning-and-Data-Science/'>Mumbai Women in Machine Learning and Data Science</a>",
+        "created": "2018-06-11 00:42:54",
+        "members": "571",
+        "past_events": "8",
+        "upcoming_events": "0",
+        "last_event": "2020-05-02",
+        "days_since_last_event": "191",
+        "start": "2018-06-11",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.82,18.96]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gaborone Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Gaborone-Women-in-Machine-Learning-and-Data-Science/'>Gaborone Women in Machine Learning & Data Science</a>",
+        "created": "2019-03-19 20:41:04",
+        "members": "109",
+        "past_events": "5",
+        "upcoming_events": "0",
+        "last_event": "2020-08-22",
+        "days_since_last_event": "79",
+        "start": "2019-03-19",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.91,-24.65]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johannesburg Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Johannesburg-Women-in-Machine-Learning-and-Data-Science/'>Johannesburg Women in Machine Learning & Data Science</a>",
+        "created": "2019-03-19 14:39:32",
+        "members": "135",
+        "past_events": "0",
+        "upcoming_events": "0",
+        "last_event": "1970-01-01",
+        "days_since_last_event": "18575",
+        "start": "2019-03-19",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.04,-26.19]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panaji Goa Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Panaji-Goa-wimlds/'>Panaji Goa Women in Machine Learning & Data Science</a>",
+        "created": "2019-07-26 15:16:03",
+        "members": "77",
+        "past_events": "5",
+        "upcoming_events": "0",
+        "last_event": "2020-09-01",
+        "days_since_last_event": "69",
+        "start": "2019-07-26",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.81,15.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hyderabad Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/Hyderabad-Women-in-Machine-Learning-and-Data-Science/'>Hyderabad Women in Machine Learning and Data Science</a>",
+        "created": "2019-09-09 01:42:02",
+        "members": "1194",
+        "past_events": "12",
+        "upcoming_events": "0",
+        "last_event": "2020-09-21",
+        "days_since_last_event": "49",
+        "start": "2019-09-09",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.48,17.4]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Visakhapatnam Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/Visakhapatnam-Women-in-Machine-Learning-and-Data-Science/'>Visakhapatnam Women in Machine Learning and Data Science</a>",
+        "created": "2019-09-13 10:59:28",
+        "members": "50",
+        "past_events": "0",
+        "upcoming_events": "0",
+        "last_event": "1970-01-01",
+        "days_since_last_event": "18575",
+        "start": "2019-09-13",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.3,17.73]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amaravati Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Amaravati-Women-in-Machine-Learning-and-Data-Science/'>Amaravati Women in Machine Learning & Data Science</a>",
+        "created": "2019-03-19 20:18:37",
+        "members": "71",
+        "past_events": "1",
+        "upcoming_events": "0",
+        "last_event": "2019-09-29",
+        "days_since_last_event": "407",
+        "start": "2019-03-19",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.36,16.57]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chennai Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Chennai-Women-in-Machine-Learning-and-Data-Science/'>Chennai Women in Machine Learning & Data Science</a>",
+        "created": "2018-08-23 00:03:55",
+        "members": "362",
+        "past_events": "2",
+        "upcoming_events": "0",
+        "last_event": "2019-08-31",
+        "days_since_last_event": "436",
+        "start": "2018-08-23",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.27,13.09]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manila Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/Manila-Women-in-Machine-Learning-and-Data-Science/'>Manila Women in Machine Learning and Data Science</a>",
+        "created": "2019-02-20 03:02:15",
+        "members": "302",
+        "past_events": "1",
+        "upcoming_events": "0",
+        "last_event": "2019-04-23",
+        "days_since_last_event": "566",
+        "start": "2019-02-20",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.97,14.62]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vacoas-Phoenix Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Vacoas-Phoenix-Women-in-Machine-Learning-Data-Science/'>Vacoas-Phoenix Women in Machine Learning & Data Science</a>",
+        "created": "2019-03-19 21:12:36",
+        "members": "83",
+        "past_events": "0",
+        "upcoming_events": "0",
+        "last_event": "1970-01-01",
+        "days_since_last_event": "18575",
+        "start": "2019-03-19",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [57.48,-20.3]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Singapore Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Singapore-Women-in-Machine-Learning-and-Data-Science/'>Singapore Women in Machine Learning & Data Science</a>",
+        "created": "2019-06-05 08:02:28",
+        "members": "119",
+        "past_events": "0",
+        "upcoming_events": "0",
+        "last_event": "1970-01-01",
+        "days_since_last_event": "18575",
+        "start": "2019-06-05",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.85,1.3]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sydney Women in Machine Learning and Data Science",
+        "url": "<a href='https://www.meetup.com/Sydney-Women-in-Machine-Learning-and-Data-Science/'>Sydney Women in Machine Learning and Data Science</a>",
+        "created": "2019-02-21 00:40:05",
+        "members": "670",
+        "past_events": "5",
+        "upcoming_events": "0",
+        "last_event": "2020-03-23",
+        "days_since_last_event": "231",
+        "start": "2019-02-21",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.21,-33.87]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melbourne Women in Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/Melbourne-Women-in-Machine-Learning-and-Data-Science/'>Melbourne Women in Machine Learning & Data Science</a>",
+        "created": "2018-07-10 21:27:55",
+        "members": "1341",
+        "past_events": "16",
+        "upcoming_events": "0",
+        "last_event": "2020-02-25",
+        "days_since_last_event": "258",
+        "start": "2018-07-10",
+        "end": "2020-11-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.96,-37.81]
+      }
+    }
+  ]
+}
